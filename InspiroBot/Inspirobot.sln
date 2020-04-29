@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inspirobot", "Inspirobot.csproj", "{367F1C32-5E41-469C-A1D7-3B3CF7AA1E7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{367F1C32-5E41-469C-A1D7-3B3CF7AA1E7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{367F1C32-5E41-469C-A1D7-3B3CF7AA1E7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{367F1C32-5E41-469C-A1D7-3B3CF7AA1E7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{367F1C32-5E41-469C-A1D7-3B3CF7AA1E7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE64F20F-7504-4A4E-8A95-9C9CB9C833A0}
+	EndGlobalSection
+EndGlobal
